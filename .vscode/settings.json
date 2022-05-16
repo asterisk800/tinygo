@@ -1,0 +1,6 @@
+{
+    "go.toolsEnvVars": {
+        "GOROOT": "/Users/ghambissa/Library/Caches/tinygo/goroot-d56a76e17ad4090c7b02156f82950c42ee8b415d6ee47e44fc6680694fec76ee",
+        "GOFLAGS": "-tags=cortexm,baremetal,linux,arm,rp2040,rp,pico,tinygo,math_big_pure_go,gc.conservative,scheduler.tasks,serial.uart"
+    }
+}
